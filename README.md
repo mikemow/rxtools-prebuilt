@@ -12,6 +12,10 @@ http://dukesrg.no-ip.org/3ds/cakes/?rxTools/sys/code.bin
 
 http://go.gateway-3ds.com/
 
+If slot0x25KeyX.bin do not work,copy/past this in a file you created and renamed slot0x25KeyX.bin:
+
+CEE7D8AB30C00DAE850EF5E382AC5AF3
+
 #### Hosting ####
 
 On Windows:
