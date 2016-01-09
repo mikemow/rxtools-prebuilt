@@ -4,7 +4,7 @@ cdn_firm.exe :
     Once it gets successfully generated, copy 'firm' to your rxTools directory.
 
 msetdg.exe :
-    Use this tool if you want to downgrade your System Settings app in your sysNand.
+    Use this to downgrade your 'System Settings' app in sysNand.
     This is useful becouse will make that entrypoint available on systems versions
     higher than 4.5.
     Once you've choosen your region, the 'msetdg.bin' file will be generated, and you'll
