@@ -16,6 +16,16 @@ If slot0x25KeyX.bin do not work,copy/past this in a file you created and renamed
 
 CEE7D8AB30C00DAE850EF5E382AC5AF3
 
+Finally,to use dukesrg.no-ip.org,you have to loacalhost by using "Hosting" step and then,redirect your 3ds browser like this:<
+
+http://yourinternalip/dukersg.no-ip.org/?file/to/load/on/sd
+
+(you have to put the ? before file path)
+
+An example:
+
+https://192.168.15.22:2343/dukersg.no-ip.org/?rxinstaller.bin
+
 #### Hosting ####
 
 On Windows:
