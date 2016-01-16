@@ -2,6 +2,8 @@ prebuilt rxtools: http://github.com/roxas75/rxtools
 
 Note: you don't have to have firmware.bin and rxtools.dat,it is outdated.
 
+FIRM is already in prebuilt/release/rxTools,you don't need do download it.
+
 Other folder contain HTML you have to launch on your 3ds browser to acces code.bin and launcher.dat.
 
 To install this,you can just copy prebuilt/release/rxTools and slot0x25KeyX.bin folder in your SD card and launch other/dukesrg.no-ip.org in your 3DS browser.
