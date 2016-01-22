@@ -8,12 +8,6 @@ Other folder contain HTML you have to launch on your 3ds browser to acces code.b
 
 To install this,you can just copy prebuilt/release/rxTools and slot0x25KeyX.bin folder in your SD card and launch other/dukesrg.no-ip.org in your 3DS browser.For the FIRM,pick the one for your model (New3DS or 0ld3DS),rename it firm, and put it in your SD in: /rxTools/ folder you just copied.
 
-You can also go to the real URL:
-
-http://dukesrg.no-ip.org/3ds/cakes/?rxTools/sys/code.bin
-
-http://go.gateway-3ds.com/
-
 If slot0x25KeyX.bin do not work,copy/past this in a file you created and renamed slot0x25KeyX.bin:
 
 CEE7D8AB30C00DAE850EF5E382AC5AF3
